@@ -21,6 +21,8 @@
 .subtitle{
   font-family: 'Sedgwick Ave Display', cursive;
   color: rgba(205, 221, 220, 0.92);
+  text-align: center;
+  font-size: 7vh;
 }
 .star{
   font-family: "Star Jedi Hollow";
