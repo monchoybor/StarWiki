@@ -18,9 +18,10 @@
   font-size: 25vh;
   color: rgb(255, 222, 0);
 }
-.titlep {
-    padding-bottom: 0.2vh;
-    padding-top: 0.2vh;
-    margin-top: 0;
-    margin-bottom: 0;
+.subtitle{
+  font-family: 'Sedgwick Ave Display', cursive;
+  color: rgba(205, 221, 220, 0.92);
+}
+.star{
+  font-family: "Star Jedi Hollow";
 }
