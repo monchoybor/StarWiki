@@ -1,6 +1,6 @@
 @font-face{
   font-family: starjedi;
-  src: url(./fonts/starjedi/Starjedi.ttf);
+  src: url("./fonts/starjedi/Starjedi.ttf");
 }
 
 .title{
