@@ -17,5 +17,7 @@
   text-align: center;
   font-size: 25vh;
   color: rgb(255, 222, 0);
-  padding-bottom: 0.5vh;
+}
+.title > p {
+    padding-bottom: 0.5vh;
 }
