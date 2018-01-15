@@ -21,4 +21,6 @@
 .titlep {
     padding-bottom: 0.2vh;
     padding-top: 0.2vh;
+    margin-top: 0;
+    margin-bottom: 0;
 }
